@@ -1,6 +1,6 @@
-const webpack = require('webpack')
-
+const webpack = require('webpack');
+ 
 module.exports = {
-    mode: 'development',
-    entry: './src/principal.js'
-}
+  mode: 'development',
+  entry: "./src/principal.js"
+}  
